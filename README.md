@@ -1,4 +1,4 @@
-# Ex.No:1a  			Study of Socket Programming
+# 19CS406_Ex.No:1a Study of Socket Programming
 
 ## Aim: 
 To perform a study on Socket Programming
